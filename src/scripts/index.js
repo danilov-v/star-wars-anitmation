@@ -1,3 +1,4 @@
-import '../styles/index.scss';
+import "../styles/index.scss";
+import "./moveLetters.js";
 
-console.log('webpack starterkit');
+console.log("webpack starterkit");
